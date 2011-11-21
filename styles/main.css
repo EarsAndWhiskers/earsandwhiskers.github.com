@@ -1,0 +1,23 @@
+body {
+	background:black url('../images/white-rabbit-medium.png') no-repeat right top;
+}
+
+p {
+	color: white;
+}
+
+ul#projects {
+	margin: 0 auto;
+	width: 600px;
+	vertical-align: center;
+	display:block;
+	text-align: center;
+}
+
+ul#projects div p {
+	font-size: 1.8em;
+}
+
+ul#projects li {
+	display:block;
+}
